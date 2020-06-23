@@ -26,11 +26,15 @@ http://t.overflow.biz:6969/announce
 
 http://aaa.army:8866/announce
 
+http://www.loushao.net:8080/announce
+
 http://trun.tom.ru:80/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.sloppyta.co:80/announce
 
 http://tracker.skyts.net:6969/announce
 
